@@ -1,4 +1,4 @@
-package com.hms.customerservice;
+package com.hms.paymentservice;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @Disabled
-class CustomerServiceApplicationTests {
+class PaymentServiceApplicationTests {
 
     @Test
     void contextLoads() {
